@@ -1,0 +1,8 @@
+# Validated Python 3.10 environment. Install a matching CPU/CUDA torch wheel first.
+torch==2.0.1
+numpy==1.26.4
+scipy==1.15.3
+scikit-learn==1.7.2
+matplotlib==3.10.8
+joblib==1.5.3
+threadpoolctl==3.6.0
